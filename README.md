@@ -21,5 +21,5 @@ dotnet build --configuration Release
 dotnet run --configuration Release
 ```
 
-![image](https://user-images.githubusercontent.com/18268067/136831311-d3140374-6251-4f53-9260-7cbec95d0ffc.png)
+![image](https://user-images.githubusercontent.com/18268067/136831404-532bfe24-83b3-4b7e-a6f9-9cfced0b2ac1.png)
 
