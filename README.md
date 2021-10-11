@@ -4,9 +4,9 @@ Teste de performance utilizando regex e diferentes abordagens.
 
 ## Dependências
 
-Bogus biblioteca para geração de dados [bogus](https://www.nuget.org/packages/Bogus/).
+Bogus biblioteca para geração de dados [bogus](https://github.com/bchavez/Bogus).
 
-BenchmarkDotNet biblioteca para benchmark [benchmarkDotNet](https://www.nuget.org/packages/BenchmarkDotNet/).
+BenchmarkDotNet biblioteca para benchmark [benchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet).
 
 ## Usage
 
